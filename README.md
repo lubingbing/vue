@@ -2,7 +2,7 @@
 
 > sell app
 
-## Build Setup 乔碧池 党碧池 柱碧池 泰曦罡
+## Build Setup
 
 ``` bash
 # install dependencies
