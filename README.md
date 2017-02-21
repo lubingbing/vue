@@ -2,7 +2,7 @@
 
 > sell app
 
-## Build Setup
+## Build Setup Lubingbing
 
 ``` bash
 # install dependencies
