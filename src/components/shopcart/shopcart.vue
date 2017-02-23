@@ -16,11 +16,13 @@
       </div>
     </div>
     <div class="ball-container">
-      <transition name="drop">
-        <div class="ball" v-for="ball in balls" v-show="ball.show">
-          <div class="inner"></div>
-        </div>
-      </transition>
+      <div v-for="ball in balls">
+        <transition name="drop">
+          <div class="ball" v-show="ball.show">
+            <div class="inner inner-hook"></div>
+          </div>
+        </transition>
+      </div>
     </div>
   </div>
 </template>
@@ -31,8 +33,7 @@
       selectFoods: {
         type: Array,
         default() {
-          return [
-          ];
+          return [];
         }
       },
       deliveryPrice: {
