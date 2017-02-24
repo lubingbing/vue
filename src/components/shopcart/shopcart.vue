@@ -63,7 +63,8 @@
           {
             show: false
           }
-        ]
+        ],
+        dropball: []
       };
     },
     computed: {
@@ -101,7 +102,15 @@
     },
     methods: {
       drop(el) {
-        console.log(el);
+        for (let i = 0; i < this.balls.length; i++) {
+          let ball = this.balls[i];
+          if (!ball.show) {
+            ball.show = true;
+            ball.el = el;
+            this.dropball.push(ball);
+            return;
+          }
+        }
       }
     }
   };

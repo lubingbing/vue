@@ -47,12 +47,12 @@
 
 <style lang="stylus" rel="stylesheet/stylus">
   .cartcontrol
-    font-size:0
+    font-size: 0
     .cart-decrease
       display: inline-block
       padding: 6px
       opacity: 1
-      transition: translate3d(0,0,0)
+      transition: translate3d(0, 0, 0)
       .inner
         display: inline-block
         line-height: 24px
@@ -75,7 +75,7 @@
       line-height: 24px
       padding-top: 6px
       text-align: center
-      color: rgb(147,153,159)
+      color: rgb(147, 153, 159)
     .cart-add
       display: inline-block
       padding: 6px
