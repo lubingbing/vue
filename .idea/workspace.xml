@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8bf6d45-c7ea-4a1e-a73e-fea067763f97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.vue" afterPath="$PROJECT_DIR$/src/App.vue" />
     </list>
     <ignored path="sell.iws" />
@@ -105,16 +104,16 @@
       <file leaf-file-name="App.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+            <state relative-caret-position="510">
+              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
               <folding>
-                <marker date="1488508282000" expanded="true" signature="573:903" ph="{...}" />
-                <marker date="1488508282000" expanded="true" signature="586:636" ph="{...}" />
-                <marker date="1488508282000" expanded="true" signature="601:629" ph="{...}" />
-                <marker date="1488508282000" expanded="true" signature="652:849" ph="{...}" />
-                <marker date="1488508282000" expanded="true" signature="708:841" ph="{...}" />
-                <marker date="1488508282000" expanded="true" signature="783:833" ph="{...}" />
-                <marker date="1488508282000" expanded="true" signature="867:899" ph="{&quot;v-header&quot;: header...}" />
+                <marker date="1488515904000" expanded="true" signature="573:903" ph="{...}" />
+                <marker date="1488515904000" expanded="true" signature="586:636" ph="{...}" />
+                <marker date="1488515904000" expanded="true" signature="601:629" ph="{...}" />
+                <marker date="1488515904000" expanded="true" signature="652:849" ph="{...}" />
+                <marker date="1488515904000" expanded="true" signature="708:841" ph="{...}" />
+                <marker date="1488515904000" expanded="true" signature="783:833" ph="{...}" />
+                <marker date="1488515904000" expanded="true" signature="867:899" ph="{&quot;v-header&quot;: header...}" />
               </folding>
             </state>
           </provider>
@@ -565,12 +564,12 @@
       <workItem from="1487912749605" duration="1341000" />
       <workItem from="1488172915246" duration="266000" />
       <workItem from="1488181175984" duration="34000" />
-      <workItem from="1488508055067" duration="307000" />
+      <workItem from="1488508055067" duration="1295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121077000" />
+    <option name="totallyTimeSpent" value="122065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1053,16 +1052,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        <state relative-caret-position="510">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
           <folding>
-            <marker date="1488508282000" expanded="true" signature="573:903" ph="{...}" />
-            <marker date="1488508282000" expanded="true" signature="586:636" ph="{...}" />
-            <marker date="1488508282000" expanded="true" signature="601:629" ph="{...}" />
-            <marker date="1488508282000" expanded="true" signature="652:849" ph="{...}" />
-            <marker date="1488508282000" expanded="true" signature="708:841" ph="{...}" />
-            <marker date="1488508282000" expanded="true" signature="783:833" ph="{...}" />
-            <marker date="1488508282000" expanded="true" signature="867:899" ph="{&quot;v-header&quot;: header...}" />
+            <marker date="1488515904000" expanded="true" signature="573:903" ph="{...}" />
+            <marker date="1488515904000" expanded="true" signature="586:636" ph="{...}" />
+            <marker date="1488515904000" expanded="true" signature="601:629" ph="{...}" />
+            <marker date="1488515904000" expanded="true" signature="652:849" ph="{...}" />
+            <marker date="1488515904000" expanded="true" signature="708:841" ph="{...}" />
+            <marker date="1488515904000" expanded="true" signature="783:833" ph="{...}" />
+            <marker date="1488515904000" expanded="true" signature="867:899" ph="{&quot;v-header&quot;: header...}" />
           </folding>
         </state>
       </provider>
